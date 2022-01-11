@@ -16,8 +16,7 @@ return`
 *│*   X-Dev Team
 *│*   Yogi PW
 *│*   Hexagon
-*│*   Dttaz
-*│*   AbengLORD 
+*│*   Dttaz 
 *│*
 *│▸* FEATURE  BY  
 *│*   Decode Denpa
@@ -28,7 +27,7 @@ return`
 *│*   X-Dev Team
 *│*   Yudha perdana
 *│*   Xchilds
-*│*   AbengLORD 
+*│* 
 *╰────────────[*`
 }
 
