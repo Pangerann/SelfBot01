@@ -1,6 +1,6 @@
 exports.bot = (gender,fake,nomerOwner)=> {
 return`
-*╭─▸*「 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧𝗭 」
+*╭─▸*「 PangeranBotZ 」
 *│*
 *│▸* Nama : ${fake}
 *│▸* Gender : ${gender}
@@ -17,6 +17,7 @@ return`
 *│*   Yogi PW
 *│*   Hexagon
 *│*   Dttaz
+*│*   AbengLORD 
 *│*
 *│▸* FEATURE  BY  
 *│*   Decode Denpa
@@ -27,7 +28,7 @@ return`
 *│*   X-Dev Team
 *│*   Yudha perdana
 *│*   Xchilds
-*│*
+*│*   AbengLORD 
 *╰────────────[*`
 }
 
